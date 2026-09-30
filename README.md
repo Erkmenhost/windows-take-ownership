@@ -22,7 +22,7 @@ For the complete step-by-step breakdown, CMD syntax (`takeown` & `icacls`), and 
 * Right-click any file or folder and select **Take Ownership**.
 
 ### 2. Remove Context Menu
-* Download **`Remove_Take_Ownership_to_context_menu_erkmenhost.reg`**.
+* Download **`Remove_Ownership_to_context_menu_erkmenhost.reg`**.
 * Double-click to merge it and restore default Windows Context Menu settings.
 
 ---
