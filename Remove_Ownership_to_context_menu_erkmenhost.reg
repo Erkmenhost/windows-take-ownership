@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; ====================================================================
+; Erkmenhost SysAdmin Tools & Utilities
+; Website: https://erkmenhost.com
+; Support: support@erkmenhost.com
+; ====================================================================
+
+[-HKEY_CLASSES_ROOT\*\shell\TakeOwnership]
+[-HKEY_CLASSES_ROOT\*\shell\runas]
+[-HKEY_CLASSES_ROOT\Directory\shell\TakeOwnership]
+[-HKEY_CLASSES_ROOT\Drive\shell\runas]
